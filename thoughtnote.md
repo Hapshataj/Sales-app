@@ -1,10 +1,6 @@
-This is my Sales App frontend using Reactjs, Bootstrap,Googlefonts.
+This SalesApp frontend is built using React.js and incorporates Bootstrap and Google Fonts for styling. The application serves as a foundational model for a sales app, developed with responsiveness across various screen sizes. The following pages are available: login, register, add sales, top sales, and today's total revenue.
 
-I have created a react sales app responsive its consists of 5 pages. 
-They are:
-*add sales
-*Login
-*register
-*topsale
-*today's total revenue
-np
+To install the required dependencies, use the following command: npm i
+
+To start the project, execute the following command:npm start
+
